@@ -1,4 +1,6 @@
-# Name
+# Template for Embedded Tomcat WebApp with Maven
+
+Generate Jakarta EE 9 project and run with Tomcat 10
 
 Overview
 
